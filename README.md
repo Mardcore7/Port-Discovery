@@ -1,6 +1,6 @@
 # Port Discovery
 
-Script to scan Ports
+Script to scan ports
 
 ```
 ./portDiscovery 192.168.1.23
